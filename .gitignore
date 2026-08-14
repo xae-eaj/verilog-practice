@@ -1,0 +1,6 @@
+# 시뮬레이션 생성물
+*.vcd
+*.vvp
+*.fst
+# macOS
+.DS_Store
